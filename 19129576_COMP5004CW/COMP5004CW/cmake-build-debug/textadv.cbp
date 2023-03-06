@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="textadv"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="textadv">
+				<Option output="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/textadv.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 textadv"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="textadv/fast">
+				<Option output="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/textadv.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 textadv/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/GameObject.cpp">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/GameObject.h">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/Room.cpp">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/Room.h">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/State.cpp">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/State.h">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/main.cpp">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/strings.h">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/wordwrap.cpp">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/wordwrap.h">
+			<Option target="textadv"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sebastian/CLionProjects/19129576_COMP5004CW/COMP5004CW/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

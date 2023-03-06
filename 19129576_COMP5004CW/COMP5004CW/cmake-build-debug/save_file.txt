@@ -1,0 +1,5 @@
+Inventory: #
+Room 1: map!
+Room 2: key@
+Room 3: stick%
+State current room: 3;

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/textadv.dir/main.cpp.o CMakeFiles/textadv.dir/Room.cpp.o CMakeFiles/textadv.dir/wordwrap.cpp.o CMakeFiles/textadv.dir/State.cpp.o CMakeFiles/textadv.dir/GameObject.cpp.o  -o textadv.exe -Wl,--out-implib,libtextadv.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

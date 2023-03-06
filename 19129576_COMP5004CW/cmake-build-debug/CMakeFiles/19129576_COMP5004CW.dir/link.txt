@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/19129576_COMP5004CW.dir/main.cpp.o  -o 19129576_COMP5004CW.exe -Wl,--out-implib,lib19129576_COMP5004CW.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
