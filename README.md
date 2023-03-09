@@ -1,2 +1,5 @@
 # cpp-cmd-room_game
-C++ Room game made by me, 19129576, written @ Oxford Brookes University during second year. Planned to be stored and adapted...
+C++ Room game 
+
+
+Planned to be stored and adapted...
